@@ -23,8 +23,8 @@
   </tr>
     <tr>
         <td colspan="2" valign="top" align="center">
-          <a href="https://github.com/Diego-18/Diego-18">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diego-18&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Diego-18" alt="Bharat's GitHub Stats Graph"/>
+          <a href="https://github.com/Noah-ke24">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noah-ke24&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)]([https://github.com/](https://github.com/Noah-ke24)" alt="Bharat's GitHub Stats Graph"/>
 </a>
       </td>
     </tr>
